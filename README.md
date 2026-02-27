@@ -1,7 +1,14 @@
 
 ---
 
-## 📄 Pages & Components
+## 🌐 Live Project Links
+
+- **Live Demo (Netlify):**  
+  https://bootstrapinterntask1.netlify.app/
+
+- **GitHub Repository:**  
+  https://github.com/Chaithanyarajbulla/Bootstrapinterntask1.git
+---
 
 ### 🏠 Home Page
 - Navbar  
@@ -53,10 +60,6 @@ Components were **remixed and customized** from Bootstrap documentation.
 - **Problem:** HTML cannot send emails directly.
 - **Solution:** Integrated Formspree for frontend-only email handling.
 
-### Netlify 404 Error
-- **Problem:** Incorrect file structure.
-- **Solution:** Ensured `index.html` was placed at root level.
-
 ---
 
 ## 📚 Learning Outcome
@@ -70,8 +73,7 @@ This project helped me understand:
 ---
 
 ## ⏱️ Time Taken
-- **Total Time:** 6–8 hours  
-- **Duration:** 1–2 days  
+- **Total Time:** 50 minutes   
 
 ---
 
